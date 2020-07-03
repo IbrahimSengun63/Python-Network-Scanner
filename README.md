@@ -7,7 +7,7 @@ pip3 install -r requirements.txt
 for usage
 python3 eniac.py
 
-                    # TOOLS
+                     TOOLS
 Wifi scanner and deauthentication attack (wifi cracker will be soon uploaded)
 
 Man in the middle attack
