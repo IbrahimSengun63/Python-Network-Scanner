@@ -1,0 +1,14 @@
+socket.py==0.1.0
+threaded==4.0.8
+queuelib==1.5.0
+scapy-http==1.8.2
+scapy==2.4.3
+scapy-python3==0.26
+random2==1.0.1
+requests==2.24.0
+whois==0.9.7
+bs4==0.0.1
+beautifulsoup4==4.9.1
+urllib3==1.25.9
+subprocess.run==0.0.8
+python3-nmap==1.4.6
