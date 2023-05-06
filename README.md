@@ -8,7 +8,6 @@ for usage
 python3 eniac.py
 
                      TOOLS
-Wifi scanner and deauthentication attack (wifi cracker will be soon uploaded)
 
 Man in the middle attack
 
